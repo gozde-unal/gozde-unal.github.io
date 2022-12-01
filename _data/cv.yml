@@ -61,10 +61,30 @@
       institution: Xerox Corp Labs, Rochester, NY, USA
       year: 2001 - 2001
       description: 
-        - title: "<b>Focus Topics:</b> Pattern Recognition, Spatial Statistics"
+        - "<b>Focus Topics:</b> Pattern Recognition, Spatial Statistics"
 
     - title: Research Assistant and Doctoral Student 
       institution: School of Electrical and Computer Engineering, North Carolina State University}, NC, USA
       year: 1998 - 2002
       description: 
-        - title: "<b>Focus Topics:</b> Computer Vision, Variational Techniques in Signal / Image Processing"
+        - "<b>Focus Topics:</b> Computer Vision, Variational Techniques in Signal / Image Processing"
+
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: North Carolina State University, NC, USA
+      year: 2002
+      description:
+        - Electrical and Computer Engineering, with a PhD minor in Mathematics
+    - title: MSc
+      institution: Bilkent University, Ankara, Turkiye
+      year: 1998
+      description:
+        - Electrical and Electronics Engineering
+    - title: BSc
+      institution: Middle East Technical University, Ankara, Turkiye
+      year: 1996
+      description:
+        - Electrical and Electronics Engineering
