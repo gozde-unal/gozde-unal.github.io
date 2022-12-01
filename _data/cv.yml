@@ -2,72 +2,105 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Gozde Unal
+    - name: Address
+      value: >
+        Istanbul Technical University
+        Faculty of Computer and Informatics Engineering 
+        Sariyer 34469 Istanbul, Turkiye
+
+
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Full Professor
+      institution: Istanbul Technical University, Faculty of Computer and Informatics Engineering
+      year: 2017 - Present
+      description:
+        - title: >
+          Research Focus: Machine Learning, Deep Learning, Continual Learning, Uncertainty
+        - title: >
+          Leadership Span: 
+          contents:
+            - 3 research scientists (postdocs, and assistant professor)
+            - 17 Master of Science students (14 MSc degrees granted, 3 ongoing)
+            - ≥ 50 BSc students and research interns (undergraduate students)
+    
+    - title: Center Founding Director
+      institution: ITU Artificial Intelligence and Data Science Center
+      year: 2018 - 2020
+      description:
+        - title: > 
+          Leadership Focus: Establishing the ITU AI Center from scratch bringing together a cross-disciplinary team of professors, research scholars as well as securing necessary infrastructure
+
+    - title: Associate Professor
+      institution: Computer Engineering, Istanbul Technical University (ITU), Istanbul, Turkiye
+      year: 2015-2017
+
+    - title: Associate & Assistant Professor
+      institution: Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, Turkiye
+      year: 2007 - 2015
+
+    - title: Research Scientist  
+      institution: Siemens Corporate Technology, Princeton NJ, USA
+      year: 2003 - 2007
+      description: 
+        - title: >
+          Focus Topics: Computer Vision, Computational Medical Imaging
+
+    - title: Postdoctoral Researcher 
+      institution: School of Electrical and Computer Engineering, Georgia Institute of Technology}, GA, USA
+      year: 2002 - 2003
+      description: 
+        - title: >
+          Focus Topics: 3-Dimensional Computer Vision, Stereoscopic Imaging
+
+    - title: Doctoral Visiting Researcher
+      institution: Hewlett Packard Research Labs, Palo Alto, CA, USA
+      year: 2003 - 2003
+      description: 
+        - title: >
+          Focus Topics: 3-Dimensional Computer Vision
+
+    - title: Visiting Researcher 
+      institution: Xerox Corp Labs, Rochester, NY, USA
+      year: 2001 - 2001
+      description: 
+        - title: >
+          Focus Topics: Pattern Recognition, Spatial Statistics
+
+    - title: Research Assistant and Doctoral Student 
+      institution: School of Electrical and Computer Engineering, North Carolina State University}, NC, USA
+      year: 1998 - 2002
+      description: 
+        - title: >
+          Focus Topics: Computer Vision, Variational Techniques in Signal / Image Processing
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: North Carolina State University, NC, USA
+      year: 2002
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - title: >
+          Electrical and Computer Engineering, with a PhD minor in Mathematics
+
+    - title: MSc
+      institution: Bilkent University, Ankara, Turkiye
+      year: 1998
       description:
-        - Description 1.
-        - Description 2.
+        - title: >
+          Electrical and Electronics Engineering
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: BSc
+      institution: Middle East Technical University, Ankara, Turkiye
+      year: 1996
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
+        - title: >
+          Electrical and Electronics Engineering
+          
 - title: Honors and Awards
   type: time_table
   contents:
@@ -80,18 +113,21 @@
         - Max Planck Medal
 
 - title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - descrition: > 
+      European Commission Marie-Curie Alumni Career Award (2016) – Awarded in March (2017).
+    - descrition: > 
+      “Best Educator Award”, Istanbul Technical University, Faculty of Computer and Informatics (2018).
+    - descrition: > 
+      IEEE Turkey “Best PhD Thesis Award” (2017). Awarded to my PhD student Dr. Süheyla Çetin Karayumak, now an assistant professor at Harvard University, Medical School.
+    - descrition: > 
+      L’Oreal Young Female Scientist Award in Life Sciences, L’Oreal Turkey (2010).
+    - descrition: > 
+      4 “Best Graduation Thesis" Awards to my students (Ranks 1 and 2 between 2017-2022) at ITU.
+    - descrition: > 
+      “Best Computer Vision Thesis Award” (2014). Isra Vision AG, Germany, awarded to MSc thesis of my student R.A. Guler, Sabanci University.
+    - descrition: > 
+      Distinguished Young Scientist Award, Turkish Academy of Sciences (TÜBA) (2010).
+    - descrition: > 
+      Eta Kappa Nu Electrical and Computer Engineering Honor Society (USA) member (2001-  )
