@@ -18,11 +18,84 @@
       institution: Istanbul Technical University, Faculty of Computer and Informatics Engineering
       year: 2017 - Present
       description:
-        - title: "Research Focus: "
-          value: Machine Learning, Deep Learning, Continual Learning, Uncertainty
+        - title: "Research Focus: Machine Learning, Deep Learning, Continual Learning, Uncertainty"
         - title:  "Leadership Span: "
           contents:
             - 3 research scientists (postdocs, and assistant professor)
             - 17 Master of Science students (14 MSc degrees granted, 3 ongoing)
             - ≥ 50 BSc students and research interns (undergraduate students)
     
+    - title: Center Founding Director
+      institution: ITU Artificial Intelligence and Data Science Center
+      year: 2018 - 2020
+      description:
+        - title: > 
+          Leadership Focus: Establishing the ITU AI Center from scratch bringing together a cross-disciplinary team of professors, research scholars as well as securing necessary infrastructure
+
+    - title: Associate Professor
+      institution: Computer Engineering, Istanbul Technical University (ITU), Istanbul, Turkiye
+      year: 2015-2017
+
+    - title: Associate & Assistant Professor
+      institution: Faculty of Engineering and Natural Sciences, Sabanci University, Istanbul, Turkiye
+      year: 2007 - 2015
+
+    - title: Research Scientist  
+      institution: Siemens Corporate Technology, Princeton NJ, USA
+      year: 2003 - 2007
+      description: 
+        - title: >
+          Focus Topics: Computer Vision, Computational Medical Imaging
+
+    - title: Postdoctoral Researcher 
+      institution: School of Electrical and Computer Engineering, Georgia Institute of Technology}, GA, USA
+      year: 2002 - 2003
+      description: 
+        - title: >
+          Focus Topics: 3-Dimensional Computer Vision, Stereoscopic Imaging
+
+    - title: Doctoral Visiting Researcher
+      institution: Hewlett Packard Research Labs, Palo Alto, CA, USA
+      year: 2003 - 2003
+      description: 
+        - title: >
+          Focus Topics: 3-Dimensional Computer Vision
+
+    - title: Visiting Researcher 
+      institution: Xerox Corp Labs, Rochester, NY, USA
+      year: 2001 - 2001
+      description: 
+        - title: >
+          Focus Topics: Pattern Recognition, Spatial Statistics
+
+    - title: Research Assistant and Doctoral Student 
+      institution: School of Electrical and Computer Engineering, North Carolina State University}, NC, USA
+      year: 1998 - 2002
+      description: 
+        - title: >
+          Focus Topics: Computer Vision, Variational Techniques in Signal / Image Processing
+
+- title: Education
+  type: time_table
+  contents:
+    - title: PhD
+      institution: North Carolina State University, NC, USA
+      year: 2002
+      description:
+        - title: >
+          Electrical and Computer Engineering, with a PhD minor in Mathematics
+
+    - title: MSc
+      institution: Bilkent University, Ankara, Turkiye
+      year: 1998
+      description:
+        - title: >
+          Electrical and Electronics Engineering
+
+    - title: BSc
+      institution: Middle East Technical University, Ankara, Turkiye
+      year: 1996
+      description:
+        - title: >
+          Electrical and Electronics Engineering
+          
