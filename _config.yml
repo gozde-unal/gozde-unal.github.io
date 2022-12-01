@@ -233,11 +233,13 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Unal]
+  first_name: [Gozde, G.]
 
   style: apa
   locale: en
+  sort_by: year
+  order: descending
 
   source: /_bibliography/
   bibliography: papers.bib
