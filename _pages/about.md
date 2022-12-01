@@ -2,24 +2,21 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Faculty of Computer and Informatics Engineering, Room 4322</p>
+    <p>Ayazaga Campus, Istanbul Technical University</p>
+    <p>Istanbul, Turkey</p>
 
-news: true  # includes a list of news items
+news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Gozde Unal received her PhD in Electrical and Computer Engineering with a PhD minor in Mathematics from North Carolina State University, Raleigh, NC, USA, in 2002. After a postdoctoral fellowship at Georgia Institute of Technology, USA, Dr. Unal worked as a research scientist at Siemens Corporate Research, Princeton, NJ, USA between 2003-2007. She also worked at HPLabs, Palo Alto, CA, and Xerox Labs, Webster, NY as a visiting researcher.  She held positions of assistant professor and associate professor at Sabancı University, Faculty of Engineering and Natural Sciences between 2007-2015.   In Fall 2015, she joined Istanbul Technical University, Department of Computer Engineering, where she is currently a full professor. She is one of the founding professors of the new AI&Data Engineering Department at ITU. She served as the founding director of the ITU-AI: ITU Artificial Intelligence and Data Science Research Center.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Dr. Unal was the recipient of L’Oreal Turkey’s Female Scientist Award in 2010 in Life Sciences, and the Distinguished Young Scientist Award from TUBA (GEBIP). She was awarded the Marie Curie Alumni Association (MCAA) Career Award of European Commission in 2017.  She served as a technical program co-chair for MICCAI 2016, Athens, Greece, and MIDL 2019, London, UK.  Currently, she is a member of the ITU-AI, and the director of the ITU Vision Lab. Her research interests are in AI, computer vision, deep learning and machine learning.
