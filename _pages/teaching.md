@@ -6,7 +6,6 @@ nav: true
 nav_order: 5
 ---
 
-{% assign sorted = site.data.teaching.courses | sort: "year" | reverse %} 
-{% for course in sorted %} 
+{% for course in site.data.teaching.courses %} 
     {% include course.html course=course %} 
 {% endfor %}

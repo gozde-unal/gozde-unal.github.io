@@ -2,33 +2,32 @@
 <div class="card w-90">
     <div class="card-header">
       <h4 class="card-title"> {{ include.course.code }} {{ include.course.title }} </h4>
-      <h5 class="card-subtitle"> {{ include.course.year }} - {{ include.course.term }}</h5>
       <ul class="nav nav-tabs card-header-tabs">
         <li class="nav-item">
-          <a class="nav-link active" href="#info-{{include.course.code}}{{include.course.year}}{{include.course.term}}" data-bs-toggle="tab">Information</a>
+          <a class="nav-link active" href="#info-{{include.course.code}}" data-bs-toggle="tab">Information</a>
         </li>
         {% if include.course.slides %}
             <li class="nav-item">
-            <a class="nav-link" href="#slides-{{include.course.code}}{{include.course.year}}{{include.course.term}}" data-bs-toggle="tab">Slides</a>
+            <a class="nav-link" href="#slides-{{include.course.code}}" data-bs-toggle="tab">Slides</a>
             </li>
         {% endif %}
         {% if include.course.video_link %}
             <li class="nav-item">
-            <a class="nav-link" href="#videos-{{include.course.code}}{{include.course.year}}{{include.course.term}}" data-bs-toggle="tab">Videos</a>
+            <a class="nav-link" href="#videos-{{include.course.code}}" data-bs-toggle="tab">Videos</a>
             </li>
         {% endif %}
       </ul>
     </div>
     <div class="card-body">
       <div class="tab-content">
-        <div class="tab-pane fade show active" id="info-{{include.course.code}}{{include.course.year}}{{include.course.term}}">
+        <div class="tab-pane fade show active" id="info-{{include.course.code}}">
           <h5 class="card-title">Course Description</h5>
           <p class="card-text"> 
             {{ include.course.description }}
           </p>
         </div>
         {% if include.course.slides %}
-            <div class="tab-pane fade" id="slides-{{include.course.code}}{{include.course.year}}{{include.course.term}}">
+            <div class="tab-pane fade" id="slides-{{include.course.code}}">
             <p class="card-text">
                 {% for item in include.course.slides %}
                     <a href="{{ item.link | absolute_url  }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a> <br>
@@ -37,7 +36,7 @@
             </div>
         {% endif %}
         {% if include.course.video_link %}
-            <div class="tab-pane fade" id="videos-{{include.course.code}}{{include.course.year}}{{include.course.term}}">
+            <div class="tab-pane fade" id="videos-{{include.course.code}}">
             <p align="center">
                 <iframe  height="350" class="col-lg-12 col-md-12 col-sm-12" src="{{ include.course.video_link }}" title="YouTube video player - {{ include.course.title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </p>
