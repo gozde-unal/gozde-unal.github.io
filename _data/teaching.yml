@@ -1,6 +1,6 @@
 courses:
   - title: Deep Learning
-    code: BLG561E - YZV302E
+    code: BLG561E-YZV302E
     video_link: https://www.youtube.com/embed/videoseries?list=PLAkQqIKJRWIaLet_vlLAXIbu0dSYwAPEy
     description: >
       In this course, the following topics are covered in the area of deep learning: Neural Networks and Convolutional Neural Networks, Optimization and Regularization, Supervised and Unsupervised Methods, Discriminative Networks, Training of Networks, Deep Generative Networks, Adversarial methods, Classification applications, Recurrent Neural Networks, Temporal Prediction applications, Advanced deep learning techniques and applications such as Deep Reinforcement Learning. <br>
