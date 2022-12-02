@@ -56,3 +56,16 @@ courses:
         link: assets/teaching/2021/Fall/YZV231E/Prob - Stats 2021 Week 13.pdf
       - name: Week 14 
         link: assets/teaching/2021/Fall/YZV231E/Prob - Stats 2021 Week 14.pdf
+
+  - title: Computer Vision
+    code: BLG453E
+    term: Fall
+    year: 2021
+    video_link: https://www.youtube.com/embed/videoseries?list=PLAkQqIKJRWIZpBkdaKKwrqUAwGWQGKgc4
+    description: >
+      The aim of the course is to study computer vision, which tries to make compu ters see and interpret using the observations in the form of multiple 2D (or 3D) images. In this undergraduate level course, the focus is on mainly 2D image processing fundamentals and basic computer vision concepts. The course will provide the participants with a background in Computer Vision both in practical aspects as being able to implement computer vision algorithms, and their mathematical understanding.
+    slides:
+      -name : Week 1 Introduction
+       link: assets\teaching\2021\Fall\BLG453E\BLG453EWeek1-Introduction.pdf
+      -name : Week 2 Pointwise Image Processing
+        link: assets\teaching\2021\Fall\BLG453E\BLG453EWeek2-PointwiseImageProc.pdf
