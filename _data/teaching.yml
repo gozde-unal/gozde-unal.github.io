@@ -7,8 +7,23 @@ courses:
     description: >
       In this course, the following topics are covered in the area of deep learning: Neural Networks and Convolutional Neural Networks, Optimization and Regularization, Supervised and Unsupervised Methods, Discriminative Networks, Training of Networks, Deep Generative Networks, Adversarial methods, Classification applications, Recurrent Neural Networks, Temporal Prediction applications, Advanced deep learning techniques and applications such as Deep Reinforcement Learning. <br>
       The specific aims of the course are: <br>
-        <pre> 1. To introduce main techniques in Deep Learning <br> </pre>
-        <pre> 2. To understand the mathematical principles of optimization and regularization of deep learning methods <br> </pre>
-        <pre> 3. To be able to design deep neural networks for various problems in artificial intelligence <br> </pre>
-        <pre> 4. To implement solutions to learning problems using various deep neural network techniques </pre>
+          &nbsp; 1. To introduce main techniques in Deep Learning <br>
+          &nbsp; 2. To understand the mathematical principles of optimization and regularization of deep learning methods <br>
+          &nbsp; 3. To be able to design deep neural networks for various problems in artificial intelligence <br>
+          &nbsp; 4. To implement solutions to learning problems using various deep neural network techniques
       
+  - title: Probability & Statistics for Data Science
+    code: YZV 231E
+    term: Fall
+    year: 2021
+    description: >
+      Upon successful completion of YZV231E, students are expected to be able to: <br>
+          &nbsp;1. Define laws and axioms of probability and be able to work with set theoretical rules of events and probabilities and concept of independence <br>
+          &nbsp;2. Construct probabilities and conditional probabilities; use them in Bayes law to model simple real life problems <br>
+          &nbsp;3. Know and utilize random variables (r.v.s), important standard models of probability density functions (pdfs) and cumulative density functions in both continuous and discrete space <br>
+          &nbsp;4. Express multiple r.v.s with joint pdfs, relating to marginal pdfs and conditional pdfs, as well as to concepts of independence and correlatedness <br>
+          &nbsp;5. Estimate means, variances, covariances, moments of random variables and random vectors <br>
+          &nbsp;6. Calculate best predictors in minimum mean squared sense both for linear and nonlinear predictors <br>
+          &nbsp;7. Know the meaning and implications of limit theorems : Law of large numbers and Central limit theorem <br>
+          &nbsp;8. Define and Utilize Basic Bayesian Statistical Inference Techniques and Classical Statistical Inference Techniques including Hypothesis Testing, Parameter Estimation, Linear Regression and Significance Testing. <br>
+          &nbsp;9. Implement the above concepts in a programming environment (PYTHON) 
