@@ -27,3 +27,32 @@ courses:
           &nbsp;7. Know the meaning and implications of limit theorems : Law of large numbers and Central limit theorem <br>
           &nbsp;8. Define and Utilize Basic Bayesian Statistical Inference Techniques and Classical Statistical Inference Techniques including Hypothesis Testing, Parameter Estimation, Linear Regression and Significance Testing. <br>
           &nbsp;9. Implement the above concepts in a programming environment (PYTHON) 
+    slides: 
+      - name: Week 1
+        link: assets/teaching/2021/Fall/YZV231E/Prob - Stats 2021 Week 1.pdf
+      - name: Week 2
+        link: assets/teaching/2021/Fall/YZV231E/Prob - Stats 2021 Week 2.pdf
+      - name: Week 3
+        link: assets/teaching/2021/Fall/YZV231E/Prob - Stats 2021 Week 3.pdf
+      - name: Week 4
+        link: assets/teaching/2021/Fall/YZV231E/Prob - Stats 2021 Week 4.pdf
+      - name: Week 5
+        link: assets/teaching/2021/Fall/YZV231E/Prob - Stats 2021 Week 5.pdf
+      - name: Week 6  
+        link: assets/teaching/2021/Fall/YZV231E/Prob - Stats 2021 Week 6.pdf
+      - name: Week 7  
+        link: assets/teaching/2021/Fall/YZV231E/Prob - Stats 2021 Week 7.pdf
+      - name: Week 8
+        link: assets/teaching/2021/Fall/YZV231E/Prob - Stats 2021 Week 8.pdf
+      - name: Week 9  
+        link: assets/teaching/2021/Fall/YZV231E/Prob - Stats 2021 Week 9.pdf
+      - name: Week 10 
+        link: assets/teaching/2021/Fall/YZV231E/Prob - Stats 2021 Week 10.pdf
+      - name: Week 11 
+        link: assets/teaching/2021/Fall/YZV231E/Prob - Stats 2021 Week 11.pdf
+      - name: Week 12 
+        link: assets/teaching/2021/Fall/YZV231E/Prob - Stats 2021 Week 12.pdf
+      - name: Week 13 
+        link: assets/teaching/2021/Fall/YZV231E/Prob - Stats 2021 Week 13.pdf
+      - name: Week 14 
+        link: assets/teaching/2021/Fall/YZV231E/Prob - Stats 2021 Week 14.pdf

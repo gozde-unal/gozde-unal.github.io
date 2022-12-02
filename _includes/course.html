@@ -28,7 +28,11 @@
         </div>
         {% if include.course.slides %}
             <div class="tab-pane fade" id="slides">
-            <p class="card-text">demo</p>
+            <p class="card-text">
+                {% for item in include.course.slides %}
+                    <a href="{{ item.link | absolute_url  }}" target="_blank" rel="noopener noreferrer">{{ item.name }}</a>
+                {% endfor %}
+            </p>
             </div>
         {% endif %}
         {% if include.course.video_link %}
