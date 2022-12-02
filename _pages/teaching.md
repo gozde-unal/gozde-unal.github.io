@@ -32,7 +32,9 @@ nav_order: 5
         <p class="card-text">demo</p>
       </div>
       <div class="tab-pane fade" id="videos">
+        <p align="center">
           <iframe width="560" height="315"  src="https://www.youtube.com/embed/videoseries?list=PLAkQqIKJRWIaLet_vlLAXIbu0dSYwAPEy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </p>
       </div>
     </div>
   </div>
