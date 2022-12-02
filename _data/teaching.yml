@@ -65,23 +65,23 @@ courses:
     description: >
       The aim of the course is to study computer vision, which tries to make compu ters see and interpret using the observations in the form of multiple 2D (or 3D) images. In this undergraduate level course, the focus is on mainly 2D image processing fundamentals and basic computer vision concepts. The course will provide the participants with a background in Computer Vision both in practical aspects as being able to implement computer vision algorithms, and their mathematical understanding.
     slides:
-      - name : Week 1 Introduction
+      - name: Week 1 Introduction
        link: assets/teaching/2021/Fall/BLG453E/BLG453EWeek1-Introduction.pdf
-      - name : Week 2 Pointwise Image Processing
+      - name: Week 2 Pointwise Image Processing
         link: assets/teaching/2021/Fall/BLG453E/BLG453EWeek2-PointwiseImageProc.pdf
-      - name : Week 3 Geometric Transforms
+      - name: Week 3 Geometric Transforms
         link: assets/teaching/2021/Fall/BLG453E/BLG453EWeek3-Geometric-Transforms.pdf
-      - name : Week 4 Spatial Transforms
+      - name: Week 4 Spatial Transforms
         link: assets/teaching/2021/Fall/BLG453E/BLG453EWeek4-SpatialTransforms.pdf
-      - name : Week 6 Edge Detection
+      - name: Week 6 Edge Detection
         link: assets/teaching/2021/Fall/BLG453E/BLG453EWeek6-EdgeDetection.pdf
-      - name : Week 7-8 Feature Extraction
+      - name: Week 7-8 Feature Extraction
         link: assets/teaching/2021/Fall/BLG453E/BLG453EWeek7-8-FeatureExtraction.pdf
-      - name : Week 9 Image Segmentation
+      - name: Week 9 Image Segmentation
         link: assets/teaching/2021/Fall/BLG453E/BLG453EWeek9 - Segmentation.pdf
-      - name : Week 10-11 Image Segmentation
+      - name: Week 10-11 Image Segmentation
         link: assets/teaching/2021/Fall/BLG453E/BLG453EWeek9-11-Segmentation.pdf
-      - name : Week 12-13 Motion
+      - name: Week 12-13 Motion
         link: assets/teaching/2021/Fall/BLG453E/BLG453EWeek12-13-Motion.pdf
-      - name : Week 13-14 Dimensionality Reduction
+      - name: Week 13-14 Dimensionality Reduction
         link: assets/teaching/2021/Fall/BLG453E/BLG453EWeek13-14-DimensionalityReduction.pdf
