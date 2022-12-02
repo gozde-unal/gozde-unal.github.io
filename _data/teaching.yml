@@ -4,3 +4,10 @@ courses:
     term: Fall
     year: 2020
     video_link: https://www.youtube.com/embed/videoseries?list=PLAkQqIKJRWIaLet_vlLAXIbu0dSYwAPEy
+    description: |
+      In this course, the following topics are covered in the area of deep learning: Neural Networks and Convolutional Neural Networks, Optimization and Regularization, Supervised and Unsupervised Methods, Discriminative Networks, Training of Networks, Deep Generative Networks, Adversarial methods, Classification applications, Recurrent Neural Networks, Temporal Prediction applications, Advanced deep learning techniques and applications such as Deep Reinforcement Learning.
+      The specific aims of the course are:
+        1. To introduce main techniques in Deep Learning
+        2. To understand the mathematical principles of optimization and regularization of deep learning methods
+        3. To be able to design deep neural networks for various problems in artificial intelligence
+        4. To implement solutions to learning problems using various deep neural network techniques

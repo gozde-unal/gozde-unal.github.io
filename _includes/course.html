@@ -11,7 +11,7 @@
             <a class="nav-link" href="#slides" data-bs-toggle="tab">Slides</a>
             </li>
         {% endif %}
-        {% if include.course.videos %}
+        {% if include.course.video_link %}
             <li class="nav-item">
             <a class="nav-link" href="#videos" data-bs-toggle="tab">Videos</a>
             </li>
@@ -29,7 +29,7 @@
             <p class="card-text">demo</p>
             </div>
         {% endif %}
-        {% if include.course.videos %}
+        {% if include.course.video_link %}
             <div class="tab-pane fade" id="videos">
             <p align="center">
                 <iframe width="560" height="315" src="{{ include.course.video_link }}" title="YouTube video player - {{ include.course.title }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
