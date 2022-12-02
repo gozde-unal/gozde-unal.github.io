@@ -2,7 +2,7 @@ courses:
   - title: Deep Learning
     code: BLG561E
     term: Fall
-    year: 2020
+    year: 2020-2021
     video_link: https://www.youtube.com/embed/videoseries?list=PLAkQqIKJRWIaLet_vlLAXIbu0dSYwAPEy
     description: >
       In this course, the following topics are covered in the area of deep learning: Neural Networks and Convolutional Neural Networks, Optimization and Regularization, Supervised and Unsupervised Methods, Discriminative Networks, Training of Networks, Deep Generative Networks, Adversarial methods, Classification applications, Recurrent Neural Networks, Temporal Prediction applications, Advanced deep learning techniques and applications such as Deep Reinforcement Learning. <br>
@@ -15,7 +15,7 @@ courses:
   - title: Probability & Statistics for Data Science
     code: YZV231E
     term: Fall
-    year: 2021
+    year: 2021-2022
     description: >
       Upon successful completion of YZV231E, students are expected to be able to: <br>
           &nbsp;1. Define laws and axioms of probability and be able to work with set theoretical rules of events and probabilities and concept of independence <br>
@@ -60,7 +60,7 @@ courses:
   - title: Computer Vision
     code: BLG453E
     term: Fall
-    year: 2021
+    year: 2021-2022
     video_link: https://www.youtube.com/embed/videoseries?list=PLAkQqIKJRWIZpBkdaKKwrqUAwGWQGKgc4
     description: >
       The aim of the course is to study computer vision, which tries to make compu ters see and interpret using the observations in the form of multiple 2D (or 3D) images. In this undergraduate level course, the focus is on mainly 2D image processing fundamentals and basic computer vision concepts. The course will provide the participants with a background in Computer Vision both in practical aspects as being able to implement computer vision algorithms, and their mathematical understanding.
