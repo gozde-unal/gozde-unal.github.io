@@ -28,11 +28,11 @@ nav_order: 5
         <h5 class="card-title">demo</h5>
         <p class="card-text">Demo</p>
       </div>
-      <div class="tab-pane fade show active" id="slides">
+      <div class="tab-pane fade" id="slides">
         <p class="card-text">demo</p>
       </div>
-      <div class="tab-pane fade show active" id="videos">
-          <iframe width="100%" src="https://www.youtube.com/embed/videoseries?list=PLAkQqIKJRWIaLet_vlLAXIbu0dSYwAPEy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <div class="tab-pane fade" id="videos">
+          <iframe src="https://www.youtube.com/embed/videoseries?list=PLAkQqIKJRWIaLet_vlLAXIbu0dSYwAPEy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
       </div>
     </div>
   </div>
