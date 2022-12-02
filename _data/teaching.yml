@@ -1,6 +1,6 @@
 courses:
   - title: Deep Learning
-    code: BLG 561E
+    code: BLG561E
     term: Fall
     year: 2020
     video_link: https://www.youtube.com/embed/videoseries?list=PLAkQqIKJRWIaLet_vlLAXIbu0dSYwAPEy
@@ -13,7 +13,7 @@ courses:
           &nbsp; 4. To implement solutions to learning problems using various deep neural network techniques
       
   - title: Probability & Statistics for Data Science
-    code: YZV 231E
+    code: YZV231E
     term: Fall
     year: 2021
     description: >
