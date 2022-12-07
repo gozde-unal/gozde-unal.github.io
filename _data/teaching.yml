@@ -3,7 +3,7 @@ courses:
     code: BLG561E
     video_link: https://www.youtube.com/embed/videoseries?list=PLAkQqIKJRWIZBT6t6zGOF9L2xcNB84uqL
     description: >
-      In this course, the following topics are covered in the area of deep learning: Neural Networks and Convolutional Neural Networks, Optimization and Regularization, Supervised and Unsupervised Methods, Discriminative Networks, Training of Networks, Deep Generative Networks, Adversarial methods, Classification applications, Recurrent Neural Networks, Temporal Prediction applications, Advanced deep learning techniques and applications such as Deep Reinforcement Learning. <br>
+      In this course, the following topics are covered in the area of deep learning: Neural Networks and Convolutional Neural Networks, Optimization and Regularization, Supervised and Unsupervised Methods, Discriminative Networks, Training of Networks, Deep Generative Networks, Adversarial methods, Classification applications, Recurrent Neural Networks, Attention Mechanism and Transformers, Temporal Prediction applications
       The specific aims of the course are: <br>
           &nbsp; 1. To introduce main techniques in Deep Learning <br>
           &nbsp; 2. To understand the mathematical principles of optimization and regularization of deep learning methods <br>
