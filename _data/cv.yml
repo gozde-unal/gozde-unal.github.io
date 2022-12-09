@@ -132,14 +132,6 @@
     - title: European Patent Office (EPO)
       subtitle: "Patent #s:"
       value: |
-        <table class="table">
-        <tbody>
-          <tr>
-            <td>EP1772827</td>
-            <td>EP1772826</td>
-            <td>EP1793349</td>
-          </tr>
-        </tbody>
-      </table>
+        demo
     
         
