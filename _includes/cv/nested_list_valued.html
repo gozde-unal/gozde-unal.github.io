@@ -1,0 +1,12 @@
+<ul class="card-text font-weight-light list-group list-group-flush">
+    {% for content in entry.contents %}
+      <li class="list-group-item">
+      <h5 class="font-normal">{{ content.title }}</h5>
+      <h6 class="font-normal">{{ content.subtitle }}</h6>
+      <div class="subitems">
+            {{ content.value }} 
+      </div>
+      {% endif %}
+      </li>
+    {% endfor %}
+</ul>

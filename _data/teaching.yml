@@ -34,7 +34,74 @@ courses:
         link: assets/teaching/DL/BLG-DL Week 10 GANs Fall 2021.pdf
       - name: Week 10 Conditional GAN
         link: assets/teaching/DL/BLG-DL Week 10 Conditional GAN Fall 2021.pdf
-      
+  
+  - title: 3D Vision
+    code: BLG634E
+    description: >
+      The aim of the course is: <br>
+        &nbsp; 1. To introduce main problems in 3D Computer Vision <br>
+        &nbsp; 2. To learn main techniques in analysis and modeling of 3D vision problems. Those will aid in extracting and understanding the 3D structure in the scenes using the observations in the form of multiple 2D or 3D images. <br>
+        &nbsp; 3. To study the 3D vision techniques in terms of both mathematical principles and computer realizations as well as applications
+    slides:
+      - name: Week 1
+        link: assets/teaching/BLG643E/3D Vision 2022 Week 1.pdf
+      - name: Week 2
+        link: assets/teaching/BLG643E/3D Vision 2022 Week 2.pdf
+      - name: Week 3
+        link: assets/teaching/BLG643E/3D Vision 2022 Week 3.pdf
+      - name: Week 3 Extra
+        link: assets/teaching/BLG643E/3D Vision 2022 Week 3 Extra.pdf
+      - name: Week 4
+        link: assets/teaching/BLG643E/3D Vision 2022 Week 4.pdf
+      - name: Week 5
+        link: assets/teaching/BLG643E/3D Vision 2022 Week 5.pdf
+      - name: Week 6
+        link: assets/teaching/BLG643E/3D Vision 2022 Week 6.pdf
+      - name: Week 7
+        link: assets/teaching/BLG643E/3D Vision 2022 Week 7.pdf
+      - name: Week 8
+        link: assets/teaching/BLG643E/3D Vision 2022 Week 8.pdf
+      - name: Week 9  
+        link: assets/teaching/BLG643E/3D Vision 2022 Week 9.pdf
+      - name: Week 10
+        link: assets/teaching/BLG643E/3D Vision 2022 Week 10.pdf
+      - name: Week 11 
+        link: assets/teaching/BLG643E/3D Vision 2022 Week 11.pdf    
+      - name: Homography
+        link: assets/teaching/BLG643E/3D Vision Homography.pdf
+      - name: Motion
+        link: assets/teaching/BLG643E/3D Vision Motion.pdf
+      - name: Stereo Epipolar Geometry
+        link: assets/teaching/BLG643E/3D Vision Stereo Epipolar Geometry.pdf
+
+  - title: Computer Vision
+    code: BLG453E
+    video_link: https://www.youtube.com/embed/videoseries?list=PLAkQqIKJRWIZpBkdaKKwrqUAwGWQGKgc4
+    description: >
+      The aim of the course is to study computer vision, which tries to make compu ters see and interpret using the observations in the form of multiple 2D (or 3D) images. In this undergraduate level course, the focus is on mainly 2D image processing fundamentals and basic computer vision concepts. The course will provide the participants with a background in Computer Vision both in practical aspects as being able to implement computer vision algorithms, and their mathematical understanding.
+    slides:
+      - name: Week 1 Introduction
+        link: assets/teaching/BLG453E/BLG453EWeek1-Introduction.pdf
+      - name: Week 2 Pointwise Image Processing
+        link: assets/teaching/BLG453E/BLG453EWeek2-PointwiseImageProc.pdf
+      - name: Week 3 Geometric Transforms
+        link: assets/teaching/BLG453E/BLG453EWeek3-Geometric-Transforms.pdf
+      - name: Week 4 Spatial Transforms
+        link: assets/teaching/BLG453E/BLG453EWeek4-SpatialTransforms.pdf
+      - name: Week 6 Edge Detection
+        link: assets/teaching/BLG453E/BLG453EWeek6-EdgeDetection.pdf
+      - name: Week 7-8 Feature Extraction
+        link: assets/teaching/BLG453E/BLG453EWeek7-8-FeatureExtraction.pdf
+      - name: Week 9 Image Segmentation
+        link: assets/teaching/BLG453E/BLG453EWeek9 - Segmentation.pdf
+      - name: Week 10-11 Image Segmentation
+        link: assets/teaching/BLG453E/BLG453EWeek9-11-Segmentation.pdf
+      - name: Week 12-13 Motion
+        link: assets/teaching/BLG453E/BLG453EWeek12-13-Motion.pdf
+      - name: Week 13-14 Dimensionality Reduction
+        link: assets/teaching/BLG453E/BLG453EWeek13-14-DimensionalityReduction.pdf
+
+
   - title: Probability & Statistics for Data Science
     code: YZV231E
     description: >
@@ -78,32 +145,6 @@ courses:
       - name: Week 14 
         link: assets/teaching/YZV231E/Prob - Stats 2021 Week 14.pdf
 
-  - title: Computer Vision
-    code: BLG453E
-    video_link: https://www.youtube.com/embed/videoseries?list=PLAkQqIKJRWIZpBkdaKKwrqUAwGWQGKgc4
-    description: >
-      The aim of the course is to study computer vision, which tries to make compu ters see and interpret using the observations in the form of multiple 2D (or 3D) images. In this undergraduate level course, the focus is on mainly 2D image processing fundamentals and basic computer vision concepts. The course will provide the participants with a background in Computer Vision both in practical aspects as being able to implement computer vision algorithms, and their mathematical understanding.
-    slides:
-      - name: Week 1 Introduction
-        link: assets/teaching/BLG453E/BLG453EWeek1-Introduction.pdf
-      - name: Week 2 Pointwise Image Processing
-        link: assets/teaching/BLG453E/BLG453EWeek2-PointwiseImageProc.pdf
-      - name: Week 3 Geometric Transforms
-        link: assets/teaching/BLG453E/BLG453EWeek3-Geometric-Transforms.pdf
-      - name: Week 4 Spatial Transforms
-        link: assets/teaching/BLG453E/BLG453EWeek4-SpatialTransforms.pdf
-      - name: Week 6 Edge Detection
-        link: assets/teaching/BLG453E/BLG453EWeek6-EdgeDetection.pdf
-      - name: Week 7-8 Feature Extraction
-        link: assets/teaching/BLG453E/BLG453EWeek7-8-FeatureExtraction.pdf
-      - name: Week 9 Image Segmentation
-        link: assets/teaching/BLG453E/BLG453EWeek9 - Segmentation.pdf
-      - name: Week 10-11 Image Segmentation
-        link: assets/teaching/BLG453E/BLG453EWeek9-11-Segmentation.pdf
-      - name: Week 12-13 Motion
-        link: assets/teaching/BLG453E/BLG453EWeek12-13-Motion.pdf
-      - name: Week 13-14 Dimensionality Reduction
-        link: assets/teaching/BLG453E/BLG453EWeek13-14-DimensionalityReduction.pdf
 
   - title: Signal & Systems for Comp. Eng.
     code: BLG354E
