@@ -130,8 +130,7 @@
   type: patents
   contents:
     - title: European Patent Office (EPO)
-      items: 
-        - """ 
+      items: >
         <table class="table">
           <tbody>
             <tr>
@@ -141,6 +140,5 @@
             </tr>
           </tbody>
         </table>
-        """
     
         
