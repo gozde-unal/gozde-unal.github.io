@@ -127,10 +127,9 @@
 
 
 - title: Patents
-  type: nested_list_valued
+  type: patents
   contents:
     - title: European Patent Office (EPO)
-      subtitle: "Patent #s:"
       value: |
         demo
     
