@@ -37,6 +37,7 @@ courses:
   
   - title: 3D Vision
     code: BLG634E
+    video_link: https://www.youtube.com/embed/videoseries?list=PLAkQqIKJRWIYH-eGIS8QlejEG_tW0boU8
     description: >
       The aim of the course is: <br>
         &nbsp; 1. To introduce main problems in 3D Computer Vision <br>
@@ -67,12 +68,16 @@ courses:
         link: assets/teaching/BLG643E/3D Vision 2022 Week 10.pdf
       - name: Week 11 
         link: assets/teaching/BLG643E/3D Vision 2022 Week 11.pdf    
+      - name: Week 13-14
+        link: assets/teaching/BLG643E/3D Vision 2021 Week 13-14.pdf
       - name: Homography
         link: assets/teaching/BLG643E/3D Vision Homography.pdf
       - name: Motion
         link: assets/teaching/BLG643E/3D Vision Motion.pdf
       - name: Stereo Epipolar Geometry
         link: assets/teaching/BLG643E/3D Vision Stereo Epipolar Geometry.pdf
+      - name: Differential Geometry of Curves
+        link: assets/teaching/BLG643E/3D Vision Differential Geometry of Curves.pdf
 
   - title: Computer Vision
     code: BLG453E
