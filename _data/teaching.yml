@@ -109,6 +109,7 @@ courses:
 
   - title: Probability & Statistics for Data Science
     code: YZV231E
+    video_link: https://www.youtube.com/embed/videoseries?list=PLAkQqIKJRWIYp5XItkAgmAuZrhpDqucXv
     description: >
       Upon successful completion of YZV231E, students are expected to be able to: <br>
           &nbsp;1. Define laws and axioms of probability and be able to work with set theoretical rules of events and probabilities and concept of independence <br>
@@ -122,33 +123,31 @@ courses:
           &nbsp;9. Implement the above concepts in a programming environment (PYTHON) 
     slides: 
       - name: Week 1
-        link: assets/teaching/YZV231E/Prob - Stats 2021 Week 1.pdf
+        link: assets/teaching/YZV231E/Prob - Stats 2022 Week 1.pdf
       - name: Week 2
-        link: assets/teaching/YZV231E/Prob - Stats 2021 Week 2.pdf
+        link: assets/teaching/YZV231E/Prob - Stats 2022 Week 2.pdf
       - name: Week 3
-        link: assets/teaching/YZV231E/Prob - Stats 2021 Week 3.pdf
+        link: assets/teaching/YZV231E/Prob - Stats 2022 Week 3.pdf
       - name: Week 4
-        link: assets/teaching/YZV231E/Prob - Stats 2021 Week 4.pdf
+        link: assets/teaching/YZV231E/Prob - Stats 2022 Week 4.pdf
       - name: Week 5
-        link: assets/teaching/YZV231E/Prob - Stats 2021 Week 5.pdf
+        link: assets/teaching/YZV231E/Prob - Stats 2022 Week 5.pdf
       - name: Week 6  
-        link: assets/teaching/YZV231E/Prob - Stats 2021 Week 6.pdf
+        link: assets/teaching/YZV231E/Prob - Stats 2022 Week 6.pdf
       - name: Week 7  
-        link: assets/teaching/YZV231E/Prob - Stats 2021 Week 7.pdf
-      - name: Week 8
-        link: assets/teaching/YZV231E/Prob - Stats 2021 Week 8.pdf
+        link: assets/teaching/YZV231E/Prob - Stats 2022 Week 7.pdf
       - name: Week 9  
-        link: assets/teaching/YZV231E/Prob - Stats 2021 Week 9.pdf
+        link: assets/teaching/YZV231E/Prob - Stats 2022 Week 9.pdf
       - name: Week 10 
-        link: assets/teaching/YZV231E/Prob - Stats 2021 Week 10.pdf
+        link: assets/teaching/YZV231E/Prob - Stats 2022 Week 10.pdf
       - name: Week 11 
-        link: assets/teaching/YZV231E/Prob - Stats 2021 Week 11.pdf
+        link: assets/teaching/YZV231E/Prob - Stats 2022 Week 11.pdf
       - name: Week 12 
-        link: assets/teaching/YZV231E/Prob - Stats 2021 Week 12.pdf
+        link: assets/teaching/YZV231E/Prob - Stats 2022 Week 12.pdf
       - name: Week 13 
-        link: assets/teaching/YZV231E/Prob - Stats 2021 Week 13.pdf
+        link: assets/teaching/YZV231E/Prob - Stats 2022 Week 13.pdf
       - name: Week 14 
-        link: assets/teaching/YZV231E/Prob - Stats 2021 Week 14.pdf
+        link: assets/teaching/YZV231E/Prob - Stats 2022 Week 14.pdf
 
 
   - title: Signal & Systems for Comp. Eng.
